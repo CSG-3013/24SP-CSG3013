@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - CinemachineTarget
+  - Trash
+  - Bag
+  - Cube
+  - Key
+  - Red
+  - Green
+  - Blue
+  - Lock
+  - Idol
   layers:
   - Default
   - TransparentFX
